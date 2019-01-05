@@ -100,15 +100,15 @@
 /obj/item/clothing/suit/advradiation
 	name = "Reinforced radiation suit"
 	desc = "An advanced radiation suit designed to protect against radiation while also protecting against most weapons."
-	icon_state = "reinforced_radsuit"
-	item_state = "reinforced_radsuit"
+	icon_state = "adv_radsuit"
+	item_state = "adv_radsuit"
 	slowdown = 1.2
 	armor = list(melee = 15, bullet = 10, laser = 5, energy = 0, bomb = 0, bio = 60, rad = 100)
 
 /obj/item/clothing/head/bio_hood/advradiation
 	name = "Reinforced radiation hlmet"
 	desc = "A sealed helmet designed to protect against radiation and weaponry."
-	icon_state = "reinforced_radhelmet"
-	item_state = "reinforced_radhelmet"
+	icon_state = "adv_radhelmet"
+	item_state = "adv_radhelmet"
 	armor = list(melee = 15, bullet = 10, laser = 5, energy = 0, bomb = 0, bio = 60, rad = 100)
 
